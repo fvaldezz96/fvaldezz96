@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Beauty-Esthetic , AM-Buildings**
 
-- 🌱 I’m currently learning **.NET, C#**
+- 🌱 I currently work with **.NET, C#**
 
 - 👨‍💻 All of my projects are available at [https://fede-valdez.vercel.app/](https://fede-valdez.vercel.app/)
 
