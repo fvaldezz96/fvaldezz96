@@ -234,25 +234,6 @@ Automotive workshop and parts management software.
 
 ---
 
-## 📚 Educational AI Platform
-AI-powered planning system for teachers:
-- Educational planning
-- Automatic documentation
-- Pedagogical workflows
-- AI educational assistant
-
----
-
-## 🏥 Radiology AI Infrastructure
-Medical infrastructure for:
-- Patient management
-- Medical analytics
-- Radiology workflows
-- Machine Learning diagnostics
-- Medical APIs
-
----
-
 ## 🛡️ SOC & Threat Hunting Labs
 Detection labs and security automation:
 - Reverse shell detection
@@ -319,23 +300,23 @@ Detection labs and security automation:
 
 <br>
 
-📧 Email: <b>valdezfede21@gmail.com</b>
+📧 Email: <b>cyronweb@gmail.com | fedevaldez23@proton.me</b>
 
 <br>
 
-<a href="https://twitter.com/fedesaul" target="_blank">
+<a href="https://twitter.com/Fedes11i" target="_blank">
 🐦 Twitter/X
 </a>
 
 <br>
 
-<a href="https://instagram.com/fedevaldez1010" target="_blank">
+<a href="https://instagram.com/fedevaldez4" target="_blank">
 📸 Instagram
 </a>
 
 <br>
 
-<a href="https://discord.gg/valdezz96" target="_blank">
+<a href="https://discord.gg/fede4449" target="_blank">
 🎮 Discord
 </a>
 
